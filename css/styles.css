@@ -22,10 +22,27 @@ button {
   border: none;
   cursor: pointer;
 }
-
-button:hover {
-  background-color: #0056b3;
+  
+#fetchJoke{
+  background-color:gray;
+  border-radius: 10px;
+  font-weight: bold;
 }
 
+li{
+list-style: none;
+}
 
+.diseño{
+  list-style: none;
+  border: 2px solid black;
+  background-color: white;
+  padding: 20px;
+  margin:20px;
+}
+.eliminar{
+  background-color: red;
+  border: 5px solid rgb(121, 3, 3);
+  font-weight: bold;
+}
 
